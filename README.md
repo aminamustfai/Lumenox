@@ -1,16 +1,27 @@
-# lumenox_app
+# 💡 Lumenox — Smart Lighting Control App
 
-A new Flutter project.
+A sleek and modern **Flutter** mobile application for controlling and customizing smart lighting systems. Lumenox allows users to manage their connected lights with an intuitive and elegant interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 💡 Control connected smart lights from mobile
+- 🎨 Customize light colors and brightness
+- 🌙 Scene management (Morning, Night, Party, etc.)
+- ⏰ Schedule lights on/off timer
+- 📱 Smooth and responsive UI for Android & iOS
+- 🏠 Home dashboard with all connected devices
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|---|---|
+| Flutter | Cross-platform mobile development |
+| Dart | Programming language |
+| Material Design | UI components & theming |
+
+---
+
