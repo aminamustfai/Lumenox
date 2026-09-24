@@ -1,5 +1,8 @@
 # 💡 Lumenox — Smart Lighting Control App
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 A sleek and modern **Flutter** mobile application for controlling and customizing smart lighting systems. Lumenox allows users to manage their connected lights with an intuitive and elegant interface.
 
 ---
