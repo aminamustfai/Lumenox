@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213337970121",
+    "project_id": "lumenox-7905c",
+    "storage_bucket": "lumenox-7905c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213337970121:android:f81594b46e40de7eccc418",
+        "android_client_info": {
+          "package_name": "com.example.lumenox_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVFcOsISYNzPGUisySPApr_0xCmql8HHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
